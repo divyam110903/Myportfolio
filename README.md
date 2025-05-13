@@ -1,6 +1,6 @@
 <h2 align="center">
   Divyam's Portfolio Website - v2.0<br/>
-  <a href="https://your-live-link.vercel.app/" target="_blank">divyam.tech</a>
+  <a href="https://myportfolio-7sl3.vercel.app/project" target="_blank">Divyam.tech</a>
 </h2>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ---
 
-## TL;DR
+## DR
 
 You can fork this repo and customize your own developer portfolio.  
 Please give credit to [Divyam Dhamija](https://github.com/divyam110903).
@@ -31,7 +31,7 @@ Please give credit to [Divyam Dhamija](https://github.com/divyam110903).
 
 ## 🚀 Built With
 
-My personal portfolio at <a href="https://your-live-link.vercel.app/" target="_blank">divyam.tech</a> features my projects, resume, technical skills, and contact info.
+My personal portfolio at <a href="https://myportfolio-7sl3.vercel.app/project" target="_blank">Divyam.tech</a> features my projects, resume, technical skills, and contact info.
 
 **Technologies Used:**
 
