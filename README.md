@@ -3,13 +3,7 @@
   <a href="https://your-live-link.vercel.app/" target="_blank">divyam.tech</a>
 </h2>
 
-<div align="center">
-  <img alt="Demo" src="./Images/portfolio-preview.png" />
-</div>
-
 <br/>
-
-<center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
@@ -67,4 +61,8 @@ My personal portfolio at <a href="https://your-live-link.vercel.app/" target="_b
 
 ```bash
 git clone https://github.com/divyam110903/Myportfolio.git
+<<<<<<< Updated upstream
 cd Myportfolio
+=======
+cd Myportfolio
+>>>>>>> Stashed changes
