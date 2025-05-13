@@ -61,8 +61,5 @@ My personal portfolio at <a href="https://your-live-link.vercel.app/" target="_b
 
 ```bash
 git clone https://github.com/divyam110903/Myportfolio.git
-<<<<<<< Updated upstream
 cd Myportfolio
-=======
-cd Myportfolio
->>>>>>> Stashed changes
+```
